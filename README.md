@@ -1,7 +1,7 @@
 # Resume Scorer & ATS Checker
 
-**Live demo → [your-username.github.io/resume-scorer](https://your-username.github.io/resume-scorer)**  
-*(Replace with your actual GitHub Pages URL once deployed)*
+**Live demo → https://apurvvcreates.github.io/Resume-scorer/
+
 
 ---
 
